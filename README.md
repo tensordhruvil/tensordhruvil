@@ -3,7 +3,7 @@
 ## 🚀 Who am I? 
 Data Scientist with 4+ years of experience and overall 13+ industry experience, passionate about leveraging cutting-edge AI technologies to solve complex business problems. I specialize in Deep Learning, Large Language Models (LLMs), and Generative AI solutions.
 
-## 🛠️ Technical Stack
+<!-- ## 🛠️ Technical Stack
 
 | Domain | Technologies & Skills |
 |--------|---------------------|
@@ -14,7 +14,7 @@ Data Scientist with 4+ years of experience and overall 13+ industry experience, 
 | **Programming** | Python • SQL • Git • FastAPI • Shell Scripting |
 | **Data Processing** | Pandas • NumPy • PySpark • Dask • Ray |
 | **Visualization** | Matplotlib • Seaborn • Plotly • Streamlit • Gradio |
-| **Databases** | PostgreSQL • MongoDB • Redis • Pinecone • Weaviate |
+| **Databases** | PostgreSQL • MongoDB • Redis • Pinecone • Weaviate | -->
 
 ## 🎯 Expertise Areas
 
