@@ -3,8 +3,6 @@
   <h3>Making AI Beautifully Simple</h3>
 </div>
 
----
-
 ### Hi there! 👋 I'm Dhruvil Patel.
 
 Welcome to the central hub for **TensorDhruvil**! If you're here from my **[YouTube Channel](YOUR_YOUTUBE_LINK_HERE)** or **[Instagram](YOUR_INSTAGRAM_LINK_HERE)**, you're in the right place. This is where I share all the code, notebooks, and resources featured in my tutorials.
