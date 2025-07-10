@@ -48,7 +48,3 @@ I'm a passionate Data Scientist with over 13 years of industry experience, speci
 </p>
 
 ---
-
-<div align="center">
-  <p>If you find my content helpful, please consider giving a ⭐️ to the repositories and subscribing to the channel!</p>
-</div>
