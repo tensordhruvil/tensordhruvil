@@ -1,25 +1,3 @@
-<div align="center">
-  <h1>TensorDhruvil</h1>
-  <h3>Making AI Beautifully Simple</h3>
-</div>
-
-### Hi there! 👋 I'm Dhruvil Patel.
-
-Welcome to the central hub for **TensorDhruvil**! If you're here from my **[YouTube Channel](YOUR_YOUTUBE_LINK_HERE)** or **[Instagram](YOUR_INSTAGRAM_LINK_HERE)**, you're in the right place. This is where I share all the code, notebooks, and resources featured in my tutorials.
-
-My mission is to break down complex topics in Artificial Intelligence and make them accessible to everyone through clear, engaging, and beautiful visual content. Feel free to explore the repositories, use the code for your own projects, and don't hesitate to open an issue if you have any questions.
-
-### 🚀 Featured Tutorials & Code
-
-Here you can find direct links to the code for some of my latest content.
-
-| Video / Post Topic                                         | YouTube Link                                | Code Repository                               |
-| ---------------------------------------------------------- | :-----------------------------------------: | :-------------------------------------------: |
-| *(Example) Building Your First RAG System* | [▶️ Watch](YOUR_YOUTUBE_VIDEO_LINK_HERE)     | [📂 View Code](YOUR_GITHUB_REPO_LINK_HERE)    |
-| *(Example) The Ultimate Guide to LLM Fine-tuning* | [▶️ Watch](YOUR_YOUTUBE_VIDEO_LINK_HERE)     | [📂 View Code](YOUR_GITHUB_REPO_LINK_HERE)    |
-| *(Example) Creating Visuals with Generative AI* | [▶️ Watch](YOUR_YOUTUBE_VIDEO_LINK_HERE)     | [📂 View Code](YOUR_GITHUB_REPO_LINK_HERE)    |
----
-
 ### 🧠 About the Creator
 
 While this space is for learning and exploration, here's a little about my professional background. I'm a passionate Data Scientist with over 13 years of industry experience, specializing in Deep Learning, Large Language Models (LLMs), and Generative AI solutions.
