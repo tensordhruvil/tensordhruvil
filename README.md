@@ -39,12 +39,6 @@ I'm a passionate Data Scientist with over 13 years of industry experience, speci
 ### 🔗 Connect With Me
 
 <p align="center">
-  <a href="YOUR_YOUTUBE_LINK_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="YOUR_INSTAGRAM_LINK_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
   <a href="YOUR_LINKEDIN_PROFILE_URL" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
