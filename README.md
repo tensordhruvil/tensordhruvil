@@ -39,7 +39,7 @@ I'm a passionate Data Scientist with over 13 years of industry experience, speci
 ### 🔗 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/dhruvilbpatel" target="_blank">
+  <a href="https://www.linkedin.com/in/dhruvilbpatel" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:hello@dhruvilpatel.com">
