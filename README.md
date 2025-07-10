@@ -1,6 +1,6 @@
-### 🧠 About the Creator
+### 🧠 About Me
 
-While this space is for learning and exploration, here's a little about my professional background. I'm a passionate Data Scientist with over 13 years of industry experience, specializing in Deep Learning, Large Language Models (LLMs), and Generative AI solutions.
+I'm a passionate Data Scientist with over 13 years of industry experience, specializing in Deep Learning, Large Language Models (LLMs), and Generative AI solutions.
 
 #### Expertise Areas
 
